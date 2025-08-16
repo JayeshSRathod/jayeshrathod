@@ -20,5 +20,5 @@ I am a **Business Transformation & Analytics Leader** with over **25 years of cr
 Passionate about **bridging strategy with technology**—aligning people, processes, and platforms to deliver scalable, sustainable transformation. By combining **domain expertise** with **analytics and AI-driven solutions**, I strive to help organizations unlock efficiency, growth, and meaningful impact.  
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jsrathod)  
+- 📧 Email: rathod.js@gmail.com  
