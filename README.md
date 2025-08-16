@@ -1,24 +1,40 @@
+
 # 👋 Hi, I’m Jayesh Rathod  
 
-Welcome to my GitHub profile!  
+🔹 **Business Transformation & Analytics Leader** with 25+ years of cross-industry expertise (Retail, Real Estate, Telecom, Healthcare, and Consumer Electronics).  
+🔹 Worked with **ISRO, Samsung, Tata, Reliance, Medkart, My Eco Energy, and Netmeds**, leading large-scale business rollouts, analytics-driven insights, and digital transformation.  
+🔹 Skilled in **Power BI, Tableau, SQL, Python, and Generative AI**, with proven success in aligning data intelligence to operational execution.  
 
-I am a **Business Transformation & Analytics Leader** with over **25 years of cross-industry expertise** across Retail, Real Estate, Telecom, Healthcare, and Consumer Electronics. My career spans working with top organizations including **ISRO, Samsung, Tata, Reliance, Medkart, My Eco Energy, and Netmeds**, where I’ve led large-scale business rollouts, customer experience initiatives, and analytics-driven decision-making.  
+---
 
-## 🔹 What I Do  
-- **Business Analytics & Insights:** Skilled in **Power BI, Tableau, SQL, Excel, and Python** to create interactive dashboards and automate reporting workflows.  
-- **Generative AI Applications:** Experimenting with **AI-powered workflow automation, prompt engineering, and reporting optimization** to drive operational efficiency.  
-- **Retail & Operations Leadership:** Proven experience in **new store rollouts (COCO/FOFO models), lease negotiations, SLA management, and process optimization**.  
-- **Strategic Planning:** Strong background in **expansion strategies, budgeting, trade area analysis, and cross-functional project management**.  
+## 🚀 About Me  
+- 💡 Experienced in **New Store Rollouts, Business Operations, and COCO/FOFO retail models**.  
+- 📊 Passionate about **Analytics, Visualization, and AI-powered automation**.  
+- 🧩 Certified in **Power BI, Tableau, Project Management, and Generative AI (Google & IBM)**.  
+- 🌱 Currently exploring **Edge AI and AI-powered workflow automation**.  
 
-## 🔹 Skills Snapshot  
-- **Analytics & Tools:** Power BI, Tableau, SQL, Python, DAX  
-- **Business Strategy:** Retail Expansion, Lease Negotiation, FOFO/COCO, SLA-driven operations  
-- **Project Management:** Certified in Project Management, Google & IBM Generative AI  
-- **Innovation:** GenAI-powered reporting, dashboard automation, digital transformation  
+---
 
-## 🔹 My Vision  
-Passionate about **bridging strategy with technology**—aligning people, processes, and platforms to deliver scalable, sustainable transformation. By combining **domain expertise** with **analytics and AI-driven solutions**, I strive to help organizations unlock efficiency, growth, and meaningful impact.  
+## 🛠️ Tech & Tools  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
 
-## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jsrathod)  
-- 📧 Email: rathod.js@gmail.com  
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshrathod&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshrathod&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔗 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jsrathod)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathod.js@gmail.com)  
+
+---
+
+✨ *Feel free to explore my repositories showcasing Power BI dashboards, Tableau visualizations, Python analytics scripts, and AI-driven automation projects.*  
